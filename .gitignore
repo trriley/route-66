@@ -1,0 +1,12 @@
+*.shp
+*.cpg
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.xml
+*.shx
+.Rproj.user/*
+.Rhistory
+*.lnk
+admin/*
