@@ -1,0 +1,67 @@
+fid,site_id,site_name,street_address,city,year_start,year_end,status,website,notes,description,photo_credit,xcoord,ycoord
+"1",CLT01,Selz Royal Blue Shoes Mural,224 Green St.,Chenoa,,,Restored,,Mural was discovered when another building was torn down,"Selz shoes were manufactured by German immigrant, Rolf Selz beginning around the turn of the century until 1940. This mural was recreated when it was discovered after a neighboring building was torn down.",,-88.7209165597063,40.7432915931265
+"2",CLT02,Chenoa Pharmacy,209 Green St.,Chenoa,"1889",,Original,https://chenoapharmacy.com/,,"Chenoa Pharmacy was founded by Tido �Carl� Schuirmann and Henry Hops in 1889. Originally known as Schuirmann�s Drug Store, the building retains its original floors, wooden cabinetry, and tin ceiling. Since first opening over 125 years ago, the pharmacy has only operated under four different owners.",,-88.7204084341153,40.7436628435725
+"3",CLT03,Matthew T. Scott Home,227 North First St.,Chenoa,"1855",,Original,https://www.visitbn.org/visit/2921/matthew-t-scott-home/-t-scott-home/,,,,-88.718277010643,40.7469662023776
+"4",CLT04,Lexington Motel,105 Morris St.,Lexington,"1950",,Repurposed,,,"Built in 1950, the Lexington Motel once sat just off the main alignment and provided a convenient place for travelers to rest. The hotel originally sat next to Gleeson�s Mobil gas station, which was torn down after the construction of I-55 routed traffic around Lexington. The building has since been converted into apartments.�",,-88.7912849946503,40.6408795314383
+"5",CLT05,Kelly's on 66,905 W Main St.,Lexington,"1940","1950",Repurposed,,Originally the Mesa Caf� restaurant and filling station,"Located in a building that was originally home to Skelly�s Service Station and Toby�s Mesa Caf�, Kelly�s is reminiscent of the diners Route 66 travelers would have visited. The restaurant also has a number of Route 66 artifacts on display for visitors to see.�",,-88.7912678188778,40.6417278539238
+"6",CLT06,Anderson's Old Corner Gas Station,Main & N Grove St.,Lexington,"1930","1940",Original,,,This building is a typical 1930s icebox-style service station with a two-door garage. Repurposed as a repair shop.�,,-88.7901218561476,40.641714725466
+"8",CLT08,Oasis Drive-In,Old 66 & 66 Bypass,Lexington,"1950","1970",Original,,"Out of use and delapidated, original sign remains","The Oasis Drive-In opened in 1960 and was popular with travelers for its sandwiches, ice cream, milkshakes, and homemade lemonade. With no indoor seating and only six outdoor tables on the patio, a carport was added in 1963 to serve more customers at once. The original owners sold in 1971 and subsequent owners only kept it open for a short while longer. The building is now unused and dilapidated, but you can still see what is left of the carport and ice cream cone sign.�",,-88.7938078448642,40.6366640356884
+"10",CLT10,Fern's Cafe and Texaco Station,,Towanda,"1951",,,,,,Sonderman,-88.9031369303755,40.5647503569004
+"16",CLT16,DEL-CO Trucker's Lodge,204 N Jefferson St,Towanda,,,,,,,,-88.8999709568882,40.5670804196085
+"18",CLT18,Duncan Manor,1002 Towanda-Barnes Road,Towanda,"1866",,Original,,,,,-88.9091087225108,40.5516773650775
+"19",CLT19,Texaco Station,514 N Division St.,Chenoa,"1940","1950",Repurposed,,,"The building that now houses Goodins Used Cars was once a Texaco gas station, popular as a hangout for highway patrol officers because of its location on Route 66.",,-88.7181545648621,40.7500023921456
+"21",CLT21,Chenoa Historical Society,201 Green St.,Chenoa,,,Original?,,,"Founded in 1990, the Chenoa Historical Society shares a building with the fire station.",,-88.7204141246652,40.7438865018299
+"22",CLT22,Streid's Standard Station,322 S Morehead St.,Chenoa,,,Repurposed,,,"The building which most recently housed Chenoa Welding and Fabrication, Inc., was once a Standard service station, bus station, and restaurant owned by Immanuel (Manny) Streid. The restaurant was leased and operated as Winter�s Caf�, and later, the Dutch Apple Pie Restaurant.",,-88.7229331867977,40.7421384494385
+"23",CLT23,Memory Lane,,,,,,,,,,-88.7797454994569,40.6504895246079
+"24",CLT24,Patton Log Cabin,Lexington Park,Lexington,"1829",,Original,https://www.visitbn.org/visit/2923/patton-log-cabin/,,"John Patton, one of the area's first settlers, built the cabin in June of 1829. Unusual to the westward settlement of America, the cabin was built with the help of the area's Native Americans. In 1969 the cabin was dismantled, moved and rebuilt in the Lexington Park District. Tours are available by appointment, June through September.",,-88.7809258619135,40.6415620235092
+"25",CLT25,Chenoa Tourist Park,Division/Davis,Chenoa,"1921",,,,,,,-88.7191698332994,40.7363464268294
+"26",BN01,Sprague's Super Service,305 E. Pine St.,Normal,"1931",,Restored (2016?),,"Local landmark designation, August 15, 2011
+National Register designation, April 25, 2008",,Sonderman,-88.9806370318178,40.5174583244834
+"27",BN02,Service Station,208 Pine St.,Normal,"1930","1950",Original,,,,,-88.9816687917742,40.5179652903108
+"28",BN03,Steak & Shake (Monical's),1219 S Main St.,Bloomington,"1934",,Repurposed,,Original shell with additions for Monical's,,Sonderman,-88.9949093773268,40.4983591243713
+"29",BN04,Shell Station,N. Main/Chestnut,Bloomington,"1950","1970",Original,,,,,-88.9942278444047,40.4858921039698
+"30",BN05,Holy Trinity Catholic Church,711 N. Main St.,Bloomington,"1932",,Original,,,,,-88.9949152185085,40.4850641300629
+"31",BN06,Standard Oil station,626 N. Main St.,Bloomington,"1930","1940",Repurposed,,"Former Standard Oil service station, now used as Blackwater 13 tattoo shop",,,-88.9941450614339,40.4843494094682
+"32",BN07,McLean County Courthouse,200 N. Main St.,Bloomington,"1903",,Original,,"Former county courthouse, has served as historical society/museum since 1991",,,-88.9941393065142,40.4799998955095
+"33",BN08,Office Building (?),104 W. Washington St.,Bloomington,"1850","1950",Original,,"Six-story, brick building with projecting bays, decorative panels between windows on each floor and prominent cornice.",,,-88.9938502923154,40.4793388157303
+"34",BN09,Uniroyal Tires,303 S. Main St.,Bloomington,"1940","1960",Original,,Possibly a former auto dealer,,,-88.9939640000856,40.4768269415755
+"35",BN10,Former Auto Dealer,321 S. Main St.,Bloomington,"1926",,Original,,"Brick structure with prominent parapet obscured by modern sign, reduced-size display windows and two distinct portions � left (S) part dated 1928 while right (N) part dated 1926.",,,-88.993776422583,40.4761145316242
+"36",BN11,La Gandola Restaurant,509 Oakland Ave.,Bloomington,"1960","1970",,,,,,-88.9938445124415,40.4738685724409
+"37",BN12,Service Station,806 S. Main St.,Bloomington,"1960","1970",Repurposed,,"Former ""Clark"" gas station, repurposed as payday loan facility",,,-88.9929047357151,40.4716545565659
+"38",BN13,Gene's Ice Cream Shop,1019 S. Main St.,Bloomington,"1950","1970",Original,,"Small, clapboard-sheathed drive-in",,,-88.9934930582746,40.4697016512871
+"39",BN14,Illinois Hotel,201 W. Jefferson St.,Bloomington,"1902",,Repurposed,,,,,-88.9950070994259,40.4806550259762
+"40",BN15,Phoenix Mid-City Hotel,312 N. Main St.,Bloomington,"1902",,Repurposed,,Former hotel repurposed into loft apartments,,,-88.994016743504,40.4809197386729
+"41",BN16,Lucca Grill,116 E. Market St.,Bloomington,"1936",,Original,,,,,-88.9929519676604,40.4826514722146
+"42",BN17,Quinn Texaco,802 N. Main St.,Bloomington,"1941",,Original,,Out of use since 2013,,Sonderman,-88.9942278444047,40.4858921039698
+"44",BN19,State Farm Insurance Building,115 E. Washington St.,Bloomington,"1929",,Original,,,,Sonderman,-88.9929604578024,40.4791283673514
+"45",BN20,Smith Building,117 W. Jefferson St.,Bloomington,"1901",,Original,,"Main purpose was to house the Stephen Smith & Sons dry goods store, complete with offices on the second floor and a millinery",,,-88.9939035797999,40.4806875515953
+"46",BN21,Peoples Bank Building,116 N. Center St.,Bloomington,"1909",,Original,,,,,-88.9948149394544,40.4792747705626
+"47",BN22,Bloomington Consistory,110 E. Mulberry St.,Bloomington,"1922",,Original,,Built to serve as temple for the Ancient and Accepted Scottish Rite of Bloomington. Converted to Bloomington Center for Performing Arts in 2000.,,,-88.9928096902509,40.4840843906365
+"48",BN23,Benjamin and Schermerhorn Building,210 N. Center St.,Bloomington,"1857",,Repurposed,,"Initially built as dry goods store; became Osco drug store in 1952; presently CVS pharmacy",,,-88.9949571255973,40.4799112841814
+"49",BN24,Ensenberger Building,212 N. Center St.,Bloomington,"1926",,Repurposed,,"Originally Ensenberger furniture store, converted to condos in 2005",,,-88.995177258741,40.4800999547588
+"50",BN25,Diamond Camp,,Normal,,,,,3 miles north of Bloomington,,Sonderman,-88.9741941159106,40.5189426780529
+"51",BN26,Sinorak Smorgasbord,51 & 66,Bloomington,"1940","1950",,,https://www.pantagraph.com/the-sinorak/image_a39ff2d3-50dd-5544-8522-44251acfa54b.html,,,-88.9914946041503,40.4599450737905
+"52",BN27,Prairie Travler Hotel,Towanda & 66,Bloomington,"1950","1960",,,,,,-88.953893475482,40.5023355879528
+"54",BN29,Bob Johnson's Restaurant,Route 150 at 66,Bloomington,,,,,,,Sonderman,-88.9712511875313,40.4590233259984
+"56",BN31,Streid's Motel and Restaurant,Route 150 at 66,Bloomington,,,,,,,Sonderman,-88.9686251365579,40.4587544304377
+"57",BN32,Quality Cafe,426 N Main St.,Bloomington,,,,,,,,-88.9940428856842,40.4821128170953
+"58",BN33,Normal Theatre,209 W North St.,Normal,"1937",,,https://www.normaltheater.com/,,,,-88.9864446443317,40.5091989444612
+"59",BN34,Cotton's Village Inn,401 N Main St.,Bloomington,,,,,https://www.pantagraph.com/cotton-s-village-inn/image_1b1fc67a-918d-549f-aadc-7709d43b994e.html,,,-88.9933667147047,40.4814183990503
+"60",BN35,Tilden Hall Hotel,,Bloomington,"1900","1961",Razed,,https://www.pantagraph.com/news/local/swank-tilden-hall-hotel-razed-in/article_53710898-b064-11de-b02f-001cc4c03286.html,,,-88.9953233008089,40.4798069651587
+"61",BN36,Casey's Market Basket/Garden Shop,1505 N Main St.,Bloomington,,,Original,http://www.caseysgardenshop.com/,,,Sonderman,-88.9937423623903,40.4944039253011
+"62",BN37,Ventura's Grill,1415 S Main St.,Bloomington,,,Repurposed,,,,Sonderman,-88.9933172094735,40.4651029399893
+"64",BN39,Phil-Kron Drive-In Theatre,,Bloomington,,,,,,,Sonderman,-88.9922936116223,40.4599835676278
+"65",BN40,Rusk Haven Hotel,,Bloomington,,,,,,,,-88.9959105808136,40.4585358045807
+"67",BN42,Belt Line,,Normal/Bloomington,,,,,,,,-88.9539846735345,40.5170871209018
+"72",BN47,Miller Park,,Bloomington,,,,,,,,-89.0036861668944,40.4682553775227
+"73",BN48,Nestle-Beich's Candy,,Bloomington,,,,,https://www.pantagraph.com/beich-s-sweet-career-started-in-downtown-bloomington/article_fb6dcb92-b5ad-5408-9375-e396f6ab1696.html,,,-88.9985445663948,40.4579291474999
+"74",BN49,Ann's Cafe,507 Pine St.,Normal,,,,,,,,-88.9780353104324,40.5175861092273
+"75",SFM01,Shirley Christian Church,8574 Foster St.,Shirley,"1850",,Original,,,,,-89.0642390881001,40.4080958108514
+"76",SFM02,Funk Prairie Home,10875 Prairie Home Ln.,Shirley,"1864",,Original,http://www.funkprairiehomemuseum.com/,,,,-89.0596518023983,40.3870221685209
+"77",SFM03,Funk's Grove Pure Maple Sirup,5257 Old Route 66,Shirley,"1824",,Original,https://www.funkspuremaplesirup.com/history.php,,,,-89.1164657048065,40.3574251903572
+"78",SFM04,Walker General Store,,Funk's Grove,,,,,,,,-89.1164657048065,40.3574251903572
+"79",SFM05,Shirley Depot,,Funk's Grove,,,,,,,,-89.1164657048065,40.3574251903572
+"80",SFM06,Sugar Grove Nature Center,4532 N 725 East Rd,Funk's Grove,,,,https://www.sugargrovenaturecenter.org/history.html,,,,-89.1324544317948,40.3473760348195
+"81",SFM07,Hutchison's General Store,,Shirley,,,,,,,,-89.0617636360572,40.4081425825014
+"82",SFM08,Dixie Trucker's Home,315 E Dixie Rd,McLean,,,,,,,,-89.1681453537622,40.3106025854479
+"83",SFM09,McLean Railroad Depot,266 E Dixie Rd.,McLean,,,,https://www.mcleandepot.com/,,,,-89.1695196554189,40.3119350604533
